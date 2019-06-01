@@ -1,2 +1,3 @@
-# StreamSets_Pipelines
-StreamSets Pipelines for variety of use cases
+# StreamSets
+
+All things StreamSets, sample pipelines, demo pipelines, code snippets, ...
